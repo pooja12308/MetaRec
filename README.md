@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔮 MetaRec — Personality-Aware Product Recommendation System
 
 > **B.Tech III Year Industrial Mini Project · 2025–2026**
@@ -111,3 +112,6 @@ Normalised scores → ranked list with match % and explanation
 > realistic distributions as the McAuley Amazon benchmark used in the paper.
 > The generator (`generate_data.py`) replicates category distributions, rating
 > histograms, and personality-aligned interaction patterns from the paper.
+=======
+# MetaRec
+>>>>>>> 55ace6cb892d3f92162e10d44c48431bda0b5497
