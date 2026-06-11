@@ -1,0 +1,81 @@
+{
+  "uid": "NEW_u90900909",
+  "name": "u90900909",
+  "source": "new_user",
+  "personality": {
+    "Openness": 0.6,
+    "Conscientiousness": 0.5,
+    "Extraversion": 0.4,
+    "Agreeableness": 0.8,
+    "Neuroticism": 0.5
+  },
+  "dominant_trait": "Agreeableness",
+  "archetype": "The Empathetic Helper",
+  "archetype_emoji": "\ud83d\udc9b",
+  "archetype_color": "#f472b6",
+  "topic_interests": [
+    [
+      "Health & Wellness",
+      0.6317
+    ],
+    [
+      "Art & Design",
+      0.6304
+    ],
+    [
+      "Travel & Outdoors",
+      0.6282
+    ],
+    [
+      "Fashion & Accessories",
+      0.6252
+    ],
+    [
+      "Books & Education",
+      0.0322
+    ],
+    [
+      "Music & Instruments",
+      0.0307
+    ],
+    [
+      "Kitchen & Cooking",
+      0.0302
+    ],
+    [
+      "Home & Living",
+      0.029
+    ],
+    [
+      "Pet Care",
+      0.029
+    ],
+    [
+      "Photography",
+      0.0264
+    ],
+    [
+      "Sports & Fitness",
+      0.0246
+    ],
+    [
+      "Electronics",
+      0.0237
+    ],
+    [
+      "Gaming",
+      0.0211
+    ],
+    [
+      "Personal Finance",
+      0.0204
+    ],
+    [
+      "Automotive",
+      0.0176
+    ]
+  ],
+  "interacted_pids": [],
+  "user_text": "Fashion & Accessories Travel & Outdoors Health & Wellness Art & Design",
+  "n_reviews": 0
+}

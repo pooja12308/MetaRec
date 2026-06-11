@@ -1,0 +1,81 @@
+{
+  "uid": "NEW_U786",
+  "name": "U786",
+  "source": "new_user",
+  "personality": {
+    "Openness": 0.6,
+    "Conscientiousness": 0.6,
+    "Extraversion": 0.5,
+    "Agreeableness": 0.6,
+    "Neuroticism": 0.2
+  },
+  "dominant_trait": "Openness",
+  "archetype": "The Creative Explorer",
+  "archetype_emoji": "\ud83c\udfa8",
+  "archetype_color": "#a78bfa",
+  "topic_interests": [
+    [
+      "Music & Instruments",
+      0.6298
+    ],
+    [
+      "Fashion & Accessories",
+      0.6261
+    ],
+    [
+      "Automotive",
+      0.6188
+    ],
+    [
+      "Health & Wellness",
+      0.0312
+    ],
+    [
+      "Books & Education",
+      0.0308
+    ],
+    [
+      "Kitchen & Cooking",
+      0.0305
+    ],
+    [
+      "Travel & Outdoors",
+      0.0299
+    ],
+    [
+      "Art & Design",
+      0.0286
+    ],
+    [
+      "Pet Care",
+      0.0285
+    ],
+    [
+      "Home & Living",
+      0.0281
+    ],
+    [
+      "Photography",
+      0.0268
+    ],
+    [
+      "Sports & Fitness",
+      0.0263
+    ],
+    [
+      "Electronics",
+      0.0238
+    ],
+    [
+      "Personal Finance",
+      0.0211
+    ],
+    [
+      "Gaming",
+      0.0198
+    ]
+  ],
+  "interacted_pids": [],
+  "user_text": "Music & Instruments Automotive Fashion & Accessories",
+  "n_reviews": 0
+}

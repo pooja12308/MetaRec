@@ -1,0 +1,81 @@
+{
+  "uid": "NEW_U001",
+  "name": "U001",
+  "source": "new_user",
+  "personality": {
+    "Openness": 0.8,
+    "Conscientiousness": 0.8,
+    "Extraversion": 0.8,
+    "Agreeableness": 0.6,
+    "Neuroticism": 0.6
+  },
+  "dominant_trait": "Openness",
+  "archetype": "The Creative Explorer",
+  "archetype_emoji": "\ud83c\udfa8",
+  "archetype_color": "#a78bfa",
+  "topic_interests": [
+    [
+      "Electronics",
+      0.6245
+    ],
+    [
+      "Gaming",
+      0.6222
+    ],
+    [
+      "Personal Finance",
+      0.6208
+    ],
+    [
+      "Books & Education",
+      0.0307
+    ],
+    [
+      "Health & Wellness",
+      0.0307
+    ],
+    [
+      "Music & Instruments",
+      0.0305
+    ],
+    [
+      "Travel & Outdoors",
+      0.0293
+    ],
+    [
+      "Kitchen & Cooking",
+      0.0293
+    ],
+    [
+      "Art & Design",
+      0.029
+    ],
+    [
+      "Home & Living",
+      0.0278
+    ],
+    [
+      "Pet Care",
+      0.0278
+    ],
+    [
+      "Photography",
+      0.0269
+    ],
+    [
+      "Sports & Fitness",
+      0.0261
+    ],
+    [
+      "Fashion & Accessories",
+      0.0258
+    ],
+    [
+      "Automotive",
+      0.0188
+    ]
+  ],
+  "interacted_pids": [],
+  "user_text": "Electronics Gaming Personal Finance",
+  "n_reviews": 0
+}

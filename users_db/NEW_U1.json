@@ -1,0 +1,81 @@
+{
+  "uid": "NEW_U1",
+  "name": "U1",
+  "source": "new_user",
+  "personality": {
+    "Openness": 0.6,
+    "Conscientiousness": 0.7,
+    "Extraversion": 0.6,
+    "Agreeableness": 0.6,
+    "Neuroticism": 0.6
+  },
+  "dominant_trait": "Conscientiousness",
+  "archetype": "The Disciplined Achiever",
+  "archetype_emoji": "\ud83d\udccb",
+  "archetype_color": "#34d399",
+  "topic_interests": [
+    [
+      "Art & Design",
+      0.6291
+    ],
+    [
+      "Electronics",
+      0.6244
+    ],
+    [
+      "Automotive",
+      0.6186
+    ],
+    [
+      "Health & Wellness",
+      0.0314
+    ],
+    [
+      "Books & Education",
+      0.0313
+    ],
+    [
+      "Music & Instruments",
+      0.0302
+    ],
+    [
+      "Kitchen & Cooking",
+      0.0296
+    ],
+    [
+      "Travel & Outdoors",
+      0.0283
+    ],
+    [
+      "Home & Living",
+      0.0283
+    ],
+    [
+      "Pet Care",
+      0.0282
+    ],
+    [
+      "Photography",
+      0.0264
+    ],
+    [
+      "Sports & Fitness",
+      0.0257
+    ],
+    [
+      "Fashion & Accessories",
+      0.0252
+    ],
+    [
+      "Gaming",
+      0.0222
+    ],
+    [
+      "Personal Finance",
+      0.0213
+    ]
+  ],
+  "interacted_pids": [],
+  "user_text": "Electronics Art & Design Automotive",
+  "n_reviews": 0
+}

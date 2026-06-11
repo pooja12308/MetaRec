@@ -1,0 +1,81 @@
+{
+  "uid": "NEW_U777",
+  "name": "U777",
+  "source": "new_user",
+  "personality": {
+    "Openness": 0.6,
+    "Conscientiousness": 0.6,
+    "Extraversion": 0.6,
+    "Agreeableness": 0.6,
+    "Neuroticism": 0.6
+  },
+  "dominant_trait": "Openness",
+  "archetype": "The Creative Explorer",
+  "archetype_emoji": "\ud83c\udfa8",
+  "archetype_color": "#a78bfa",
+  "topic_interests": [
+    [
+      "Home & Living",
+      0.6282
+    ],
+    [
+      "Pet Care",
+      0.6282
+    ],
+    [
+      "Sports & Fitness",
+      0.6255
+    ],
+    [
+      "Books & Education",
+      0.0312
+    ],
+    [
+      "Health & Wellness",
+      0.0312
+    ],
+    [
+      "Music & Instruments",
+      0.0307
+    ],
+    [
+      "Art & Design",
+      0.0295
+    ],
+    [
+      "Kitchen & Cooking",
+      0.0294
+    ],
+    [
+      "Travel & Outdoors",
+      0.0285
+    ],
+    [
+      "Photography",
+      0.0265
+    ],
+    [
+      "Fashion & Accessories",
+      0.0254
+    ],
+    [
+      "Electronics",
+      0.0243
+    ],
+    [
+      "Gaming",
+      0.0225
+    ],
+    [
+      "Personal Finance",
+      0.0206
+    ],
+    [
+      "Automotive",
+      0.0184
+    ]
+  ],
+  "interacted_pids": [],
+  "user_text": "Sports & Fitness Home & Living Pet Care",
+  "n_reviews": 0
+}
