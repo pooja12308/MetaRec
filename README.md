@@ -75,7 +75,7 @@ metarec/
 
 ---
 
-## 🔬 Algorithm (Paper Faithful)
+## 🔬 Algorithm 
 
 ### 1. Personality Inference
 - **Existing users**: LIWC-style lexicon scoring over review text
