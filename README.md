@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔮 MetaRec — Personality-Aware Product Recommendation System
 
 > **B.Tech III Year Industrial Mini Project · 2025–2026**
